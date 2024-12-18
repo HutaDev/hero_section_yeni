@@ -1,6 +1,6 @@
 <div>
 
-## <a href="/"> Demo </a>
+## <a href="https://hutadev.github.io/hero_section_yeni/"> Demo </a>
 
 </div>
 
